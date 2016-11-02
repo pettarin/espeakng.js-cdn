@@ -15,3 +15,9 @@ supporting Web workers and the Web Audio API.
 * Date: 2016-11-02
 * License: the GNU General Public License, Version 3 (GPLv3)
 * Size: 3.0 MB (including all the voices)
+
+## Notes
+
+Currently `js/espeakng.min.js` is a copy of `js/espeakng.js`,
+and `js/espeakng.min.js.map` is empty,
+but they are included to make things easier for jsdelivr.
